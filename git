@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -n "Enter the commit message"
+echo -n "Enter the commit message: "
 read var
 
 git add .
